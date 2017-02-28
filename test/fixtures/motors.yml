@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vehicle_id: MyString
+  registration_date: 2017-02-28 23:54:44
+  policy_start_date: 2017-02-28 23:54:44
+  policy_end_date: 2017-02-28 23:54:44
+  rto_code: MyString
+
+two:
+  vehicle_id: MyString
+  registration_date: 2017-02-28 23:54:44
+  policy_start_date: 2017-02-28 23:54:44
+  policy_end_date: 2017-02-28 23:54:44
+  rto_code: MyString
